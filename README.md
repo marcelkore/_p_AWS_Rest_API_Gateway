@@ -9,6 +9,9 @@ This template does not include any kind of persistence (database).
 
 ## **Usage**
 
+Main code is in `handler.py`.
+AWS Cloud Build Information is on 'severless.yml'.
+
 Contains simple CRUD operations that can be used to
 interact with DynamoDB.
 
